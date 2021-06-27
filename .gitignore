@@ -1,0 +1,6 @@
+# ignora cualquier archivo llamado "secreto.txt"
+/secretos.txt
+# ignora un directorio llamado "packages" C:\coding_dojo\PORTAFOLIO\packages
+packages/
+# ignora cualquier archivo que comience con log
+log*
